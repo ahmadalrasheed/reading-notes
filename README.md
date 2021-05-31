@@ -10,3 +10,10 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 
 ![mindsetfigure](Screenshot 2021-05-31 133845.png)
 
+## How you can benefit from a growth mindset?
+
+ * The growth mindset can open pathways to more creativity and possibility
+ * it enable the setting of higher goals and more achievement.
+ 
+***so now we now what is growth minset***
+
