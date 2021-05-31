@@ -17,4 +17,5 @@ A growth mindset believes that one’s fundamental abilities can be developed th
  
 ***so now we now what is growth minset***
 visit this [link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) for more information about growthmindset !
+thank you!
 
