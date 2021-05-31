@@ -8,7 +8,7 @@ A growth mindset believes that one’s fundamental abilities can be developed th
  1. fixed mindset
  2. growth mindset
 
-![mindsetfigure](Screenshot 2021-05-31 133845.png)
+![mindsetfigure](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=800%2C1000&ssl=1)
 
 ## How you can benefit from a growth mindset?
 
