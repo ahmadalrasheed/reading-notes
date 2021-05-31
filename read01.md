@@ -22,7 +22,7 @@ there is two types of lists:
  2. ordered list
 
 finally , for more information you can go to this [link](https://guides.github.com/features/mastering-markdown/) to see more about markdown!
-_____________________________________________________________________________________________________________________________________
+
 
 # what is github ?
 
