@@ -9,6 +9,11 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 
 ![mindsetfigure](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=800%2C1000&ssl=1)
 
+## three reminders of how to keep myself in a growth mindset ?
+* you must have love of learning
+* try to solve all problems that you face and stay focusing
+* raise you abilites by brain practicing , put all your focus in your work.
+
 ## How you can benefit from a growth mindset?
 
  * The growth mindset can open pathways to more creativity and possibility
