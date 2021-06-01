@@ -5,8 +5,9 @@
 
 | page        | link                    |
 | ----------- | -----------             |
-| grouwthmind | [pagelink1](lab02.md)   |
+| lab02       | [pagelink1](lab02.md)   |
 | read01      | [pagelink2](read01.md)  |
+| read02      | [pagelink3](read02.md)  |
 
 # ***contact me***
 

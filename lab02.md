@@ -1,5 +1,8 @@
 # reading-notes
 
+## introduction about myself
+ **my name is ahmad alrasheed , i am bioinformatics engineer , i am professional in python , and i am so excited to be a full-stack developer ! and i am happy to meet you all !**
+
 ## What is a growth mindset?
 
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
@@ -8,6 +11,11 @@ A growth mindset believes that one’s fundamental abilities can be developed th
  2. growth mindset
 
 ![mindsetfigure](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=800%2C1000&ssl=1)
+
+## three reminders of how to keep myself in a growth mindset ?
+* you must have love of learning
+* try to solve all problems that you face and stay focusing
+* raise you abilites by brain practicing , put all your focus in your work.
 
 ## How you can benefit from a growth mindset?
 
