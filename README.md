@@ -8,6 +8,9 @@
 | lab02       | [pagelink1](lab02.md)   |
 | read01      | [pagelink2](read01.md)  |
 | read02      | [pagelink3](read02.md)  |
+| read03      | [pagelink4](read03.md)  |
+| read04      | [pagelink5](read04.md)  |
+| read06      | [pagelink6](read06.md)  |
 
 # ***contact me***
 

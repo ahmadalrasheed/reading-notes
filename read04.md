@@ -71,3 +71,6 @@ and here is an example to convert the color of all of the paragraphs in body int
 `body {color: #92a8d1;}`
 
 
+finally, this was a summarization about css , thank you for reading !
+
+
