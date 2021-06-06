@@ -113,4 +113,3 @@ Use the break statement to terminate a loop, switch, or in conjunction with a la
 
 1. The first form of the syntax terminates the innermost enclosing loop or `switch`.
 2. The second form of the syntax terminates the specified enclosing labeled statement.
-
