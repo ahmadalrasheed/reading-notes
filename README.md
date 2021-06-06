@@ -11,6 +11,8 @@
 | read03      | [pagelink4](read03.md)  |
 | read04      | [pagelink5](read04.md)  |
 | read06      | [pagelink6](read06.md)  |
+| read07      | [pagelink7](read07.md)  |
+| read08      | [pagelink8](read08.md)  |
 
 # ***contact me***
 
